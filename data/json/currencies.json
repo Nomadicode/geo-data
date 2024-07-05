@@ -1,0 +1,1424 @@
+[
+	{
+		"name": "Afghan Afghani",
+		"iso_code": "AFN",
+		"symbol": "؋",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Albanian Lek",
+		"iso_code": "ALL",
+		"symbol": "L",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Algerian Dinar",
+		"iso_code": "DZD",
+		"symbol": "د.ج",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Angolan kwanza",
+		"iso_code": "AOA",
+		"symbol": "Kz",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Antarctican dollar",
+		"iso_code": "AAD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Argentine Peso",
+		"iso_code": "ARS",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Armenian Dram",
+		"iso_code": "AMD",
+		"symbol": "֏",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Aruban florin",
+		"iso_code": "AWG",
+		"symbol": "ƒ",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Australian Dollar",
+		"iso_code": "AUD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Azerbaijani Manat",
+		"iso_code": "AZN",
+		"symbol": "₼",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Bahamian dollar",
+		"iso_code": "BSD",
+		"symbol": "B$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bahraini dinar",
+		"iso_code": "BHD",
+		"symbol": ".د.ب",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bangladeshi Taka",
+		"iso_code": "BDT",
+		"symbol": "৳",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Barbadian dollar",
+		"iso_code": "BBD",
+		"symbol": "Bds$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Belarusian ruble",
+		"iso_code": "BYN",
+		"symbol": "Br",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Belize dollar",
+		"iso_code": "BZD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bermudian dollar",
+		"iso_code": "BMD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bhutanese ngultrum",
+		"iso_code": "BTN",
+		"symbol": "Nu.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bolivian boliviano",
+		"iso_code": "BOB",
+		"symbol": "Bs.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bolívar",
+		"iso_code": "VEF",
+		"symbol": "Bs",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bosnia and Herzegovina Convertible Mark",
+		"iso_code": "BAM",
+		"symbol": "KM",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Botswana pula",
+		"iso_code": "BWP",
+		"symbol": "P",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Brazilian Real",
+		"iso_code": "BRL",
+		"symbol": "R$",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "British Pound",
+		"iso_code": "GBP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Brunei dollar",
+		"iso_code": "BND",
+		"symbol": "B$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Bulgarian Lev",
+		"iso_code": "BGN",
+		"symbol": "лв",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": false
+	},
+	{
+		"name": "Burmese kyat",
+		"iso_code": "MMK",
+		"symbol": "K",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Burundian franc",
+		"iso_code": "BIF",
+		"symbol": "FBu",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "CFP franc",
+		"iso_code": "XPF",
+		"symbol": "₣",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Cambodian riel",
+		"iso_code": "KHR",
+		"symbol": "KHR",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Canadian Dollar",
+		"iso_code": "CAD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Cape Verdean escudo",
+		"iso_code": "CVE",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Cayman Islands dollar",
+		"iso_code": "KYD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Central African CFA franc",
+		"iso_code": "XAF",
+		"symbol": "FC",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Chilean Peso",
+		"iso_code": "CLP",
+		"symbol": "$",
+		"decimal_digits": 0,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Chinese Yuan",
+		"iso_code": "CNY",
+		"symbol": "¥",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Colombian Peso",
+		"iso_code": "COP",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Comorian franc",
+		"iso_code": "KMF",
+		"symbol": "CF",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Congolese Franc",
+		"iso_code": "CDF",
+		"symbol": "FC",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Costa Rican Colón",
+		"iso_code": "CRC",
+		"symbol": "₡",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Croatian Kuna",
+		"iso_code": "HRK",
+		"symbol": "kn",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": false
+	},
+	{
+		"name": "Cuban Peso",
+		"iso_code": "CUP",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Czech koruna",
+		"iso_code": "CZK",
+		"symbol": "Kč",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Danish krone",
+		"iso_code": "DKK",
+		"symbol": "Kr.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Denar",
+		"iso_code": "MKD",
+		"symbol": "ден",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Djiboutian franc",
+		"iso_code": "DJF",
+		"symbol": "Fdj",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Dobra",
+		"iso_code": "STD",
+		"symbol": "Db",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Dominican Peso",
+		"iso_code": "DOP",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "East Caribbean dollar",
+		"iso_code": "XCD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Egyptian Pound",
+		"iso_code": "EGP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Eritrean nakfa",
+		"iso_code": "ERN",
+		"symbol": "Nfk",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Ethiopian Birr",
+		"iso_code": "ETB",
+		"symbol": "ብር",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Euro",
+		"iso_code": "EUR",
+		"symbol": "€",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Falkland Islands pound",
+		"iso_code": "FKP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Fijian dollar",
+		"iso_code": "FJD",
+		"symbol": "FJ$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Gambian dalasi",
+		"iso_code": "GMD",
+		"symbol": "D",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Georgian Lari",
+		"iso_code": "GEL",
+		"symbol": "₾",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Ghanaian Cedi",
+		"iso_code": "GHS",
+		"symbol": "₵",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Gibraltar pound",
+		"iso_code": "GIP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Guatemalan Quetzal",
+		"iso_code": "GTQ",
+		"symbol": "Q",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Guinean franc",
+		"iso_code": "GNF",
+		"symbol": "FG",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Guyanese dollar",
+		"iso_code": "GYD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Haitian Gourde",
+		"iso_code": "HTG",
+		"symbol": "G",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Honduran Lempira",
+		"iso_code": "HNL",
+		"symbol": "L",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Hong Kong Dollar",
+		"iso_code": "HKD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Hungarian forint",
+		"iso_code": "HUF",
+		"symbol": "Ft",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Icelandic króna",
+		"iso_code": "ISK",
+		"symbol": "kr",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Indian Rupee",
+		"iso_code": "INR",
+		"symbol": "₹",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Indonesian Rupiah",
+		"iso_code": "IDR",
+		"symbol": "Rp",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Iranian rial",
+		"iso_code": "IRR",
+		"symbol": "﷼",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Iraqi dinar",
+		"iso_code": "IQD",
+		"symbol": "د.ع",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Israeli New Shekel",
+		"iso_code": "ILS",
+		"symbol": "₪",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Jamaican Dollar",
+		"iso_code": "JMD",
+		"symbol": "J$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Japanese Yen",
+		"iso_code": "JPY",
+		"symbol": "¥",
+		"decimal_digits": 0,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Jordanian dinar",
+		"iso_code": "JOD",
+		"symbol": "ا.د",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Kazakhstani Tenge",
+		"iso_code": "KZT",
+		"symbol": "₸",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Kenyan Shilling",
+		"iso_code": "KES",
+		"symbol": "KSh",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Kuwaiti dinar",
+		"iso_code": "KWD",
+		"symbol": "ك.د",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Kyrgyzstani Som",
+		"iso_code": "KGS",
+		"symbol": "лв",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Lao kip",
+		"iso_code": "LAK",
+		"symbol": "₭",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Lebanese pound",
+		"iso_code": "LBP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Lesotho loti",
+		"iso_code": "LSL",
+		"symbol": "L",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Liberian dollar",
+		"iso_code": "LRD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Libyan dinar",
+		"iso_code": "LYD",
+		"symbol": "د.ل",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Lilangeni",
+		"iso_code": "SZL",
+		"symbol": "E",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Macanese pataca",
+		"iso_code": "MOP",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Malagasy ariary",
+		"iso_code": "MGA",
+		"symbol": "Ar",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Malawian kwacha",
+		"iso_code": "MWK",
+		"symbol": "MK",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Malaysian Ringgit",
+		"iso_code": "MYR",
+		"symbol": "RM",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Maldivian Rufiyaa",
+		"iso_code": "MVR",
+		"symbol": "Rf",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Mauritanian ouguiya",
+		"iso_code": "MRU",
+		"symbol": "MRU",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Mauritian Rupee",
+		"iso_code": "MUR",
+		"symbol": "Rs",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Mexican Peso",
+		"iso_code": "MXN",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Moldovan Leu",
+		"iso_code": "MDL",
+		"symbol": "L",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Mongolian tögrög",
+		"iso_code": "MNT",
+		"symbol": "₮",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Moroccan Dirham",
+		"iso_code": "MAD",
+		"symbol": "د.م.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Mozambican metical",
+		"iso_code": "MZN",
+		"symbol": "MT",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Namibian dollar",
+		"iso_code": "NAD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Nepalese Rupee",
+		"iso_code": "NPR",
+		"symbol": "Rs",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Netherlands Antillean guilder",
+		"iso_code": "ANG",
+		"symbol": "ƒ",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "New Taiwan dollar",
+		"iso_code": "TWD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "New Zealand Dollar",
+		"iso_code": "NZD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Nicaraguan Córdoba",
+		"iso_code": "NIO",
+		"symbol": "C$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Nigerian Naira",
+		"iso_code": "NGN",
+		"symbol": "₦",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "North Korean Won",
+		"iso_code": "KPW",
+		"symbol": "₩",
+		"decimal_digits": 0,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Norwegian krone",
+		"iso_code": "NOK",
+		"symbol": "kr",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Omani rial",
+		"iso_code": "OMR",
+		"symbol": ".ع.ر",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Pakistani Rupee",
+		"iso_code": "PKR",
+		"symbol": "₨",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Panamanian Balboa",
+		"iso_code": "PAB",
+		"symbol": "B/.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Papua New Guinean kina",
+		"iso_code": "PGK",
+		"symbol": "K",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Paraguayan guarani",
+		"iso_code": "PYG",
+		"symbol": "₲",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Peruvian sol",
+		"iso_code": "PEN",
+		"symbol": "S/.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Philippine Peso",
+		"iso_code": "PHP",
+		"symbol": "₱",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Polish złoty",
+		"iso_code": "PLN",
+		"symbol": "zł",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Qatari riyal",
+		"iso_code": "QAR",
+		"symbol": "ق.ر",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Romanian Leu",
+		"iso_code": "RON",
+		"symbol": "lei",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": false
+	},
+	{
+		"name": "Russian Ruble",
+		"iso_code": "RUB",
+		"symbol": "₽",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Rwandan franc",
+		"iso_code": "RWF",
+		"symbol": "FRw",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Saint Helena pound",
+		"iso_code": "SHP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Samoan tālā",
+		"iso_code": "WST",
+		"symbol": "SAT",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Sao Tomean Dobras",
+		"iso_code": "STN",
+		"symbol": "Db",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Saudi Riyal",
+		"iso_code": "SAR",
+		"symbol": "ر.س",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Serbian Dinar",
+		"iso_code": "RSD",
+		"symbol": "дин.",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": false
+	},
+	{
+		"name": "Seychellois Rupee",
+		"iso_code": "SCR",
+		"symbol": "Rs",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Sierra Leonean leone",
+		"iso_code": "SLL",
+		"symbol": "Le",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Singapore Dollar",
+		"iso_code": "SGD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Solomon Islands dollar",
+		"iso_code": "SBD",
+		"symbol": "Si$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Somali shilling",
+		"iso_code": "SOS",
+		"symbol": "Sh.so.",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "South African Rand",
+		"iso_code": "ZAR",
+		"symbol": "R",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "South Korean Won",
+		"iso_code": "KRW",
+		"symbol": "₩",
+		"decimal_digits": 0,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "South Sudanese pound",
+		"iso_code": "SSP",
+		"symbol": "£",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Sri Lankan Rupee",
+		"iso_code": "LKR",
+		"symbol": "Rs",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Sudanese pound",
+		"iso_code": "SDG",
+		"symbol": ".س.ج",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Surinamese dollar",
+		"iso_code": "SRD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Swedish Krona",
+		"iso_code": "SEK",
+		"symbol": "kr",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": false
+	},
+	{
+		"name": "Swiss Franc",
+		"iso_code": "CHF",
+		"symbol": "CHF",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": "'",
+		"symbol_left": false
+	},
+	{
+		"name": "Syrian pound",
+		"iso_code": "SYP",
+		"symbol": "LS",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Tajikistani Somoni",
+		"iso_code": "TJS",
+		"symbol": "ЅМ",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Tanzanian Shilling",
+		"iso_code": "TZS",
+		"symbol": "TSh",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Thai Baht",
+		"iso_code": "THB",
+		"symbol": "฿",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Tongan paʻanga",
+		"iso_code": "TOP",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Trinidad and Tobago Dollar",
+		"iso_code": "TTD",
+		"symbol": "TT$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Tunisian Dinar",
+		"iso_code": "TND",
+		"symbol": "د.ت",
+		"decimal_digits": 3,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Turkish Lira",
+		"iso_code": "TRY",
+		"symbol": "₺",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Turkmenistani Manat",
+		"iso_code": "TMT",
+		"symbol": "m",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "UAE Dirham",
+		"iso_code": "AED",
+		"symbol": "د.إ",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "US Dollar",
+		"iso_code": "USD",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Ugandan Shilling",
+		"iso_code": "UGX",
+		"symbol": "USh",
+		"decimal_digits": 0,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Ukrainian hryvnia",
+		"iso_code": "UAH",
+		"symbol": "₴",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Uruguayan peso",
+		"iso_code": "UYU",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Uzbekistani Som",
+		"iso_code": "UZS",
+		"symbol": "лв",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": false
+	},
+	{
+		"name": "Vanuatu vatu",
+		"iso_code": "VUV",
+		"symbol": "VT",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Venezuelan Bolivar",
+		"iso_code": "VES",
+		"symbol": "Bs",
+		"decimal_digits": 2,
+		"decimal_separator": ",",
+		"thousands_separator": ".",
+		"symbol_left": true
+	},
+	{
+		"name": "Vietnamese đồng",
+		"iso_code": "VND",
+		"symbol": "₫",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "West African CFA franc",
+		"iso_code": "XOF",
+		"symbol": "CFA",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Yemeni rial",
+		"iso_code": "YER",
+		"symbol": "﷼",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Zambian kwacha",
+		"iso_code": "ZMW",
+		"symbol": "ZK",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	},
+	{
+		"name": "Zimbabwe Dollar",
+		"iso_code": "ZWL",
+		"symbol": "$",
+		"decimal_digits": 2,
+		"decimal_separator": ".",
+		"thousands_separator": ",",
+		"symbol_left": true
+	}
+]

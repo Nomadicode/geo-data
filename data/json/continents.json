@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Antarctica",
+        "iso_code": "AN"
+    },
+    {
+        "name": "Africa",
+        "iso_code": "AF"
+    },
+    {
+        "name": "Asia",
+        "iso_code": "AS"
+    },
+    {
+        "name": "Europe",
+        "iso_code": "EU"
+    },
+    {
+        "name": "North America",
+        "iso_code": "NA"
+    },
+    {
+        "name": "Oceania",
+        "iso_code": "OC"
+    },
+    {
+        "name": "South America",
+        "iso_code": "SA"
+    }
+]
